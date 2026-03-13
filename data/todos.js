@@ -2,7 +2,7 @@ export const data = [
     {
         "id":1,
         "title": "Bank Left",
-        "completed": true
+        "completed": false
     },
     {
         "id":2,
@@ -12,7 +12,7 @@ export const data = [
     {
         "id":3,
         "title": "Do a Barrel Roll",
-        "completed": true
+        "completed": false
     }
 ]
 
